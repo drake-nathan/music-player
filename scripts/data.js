@@ -1,4 +1,4 @@
-var albums = [
+const albums = [
   {
     title: 'Struggle Pretty',
     artist: 'Penny and Sparrow',
